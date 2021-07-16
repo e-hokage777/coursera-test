@@ -15,14 +15,14 @@ h1{
 
 /*Styles for  sections*/
 section{
-	margin-bottom: 15px;
+	margin-bottom: 22px;
 }
 
 /*Base sectioning style*/
 #div1, #div2, #div3{
 	border: solid 1px black;
 	height: 200px;
-	padding: 70px 20px 20px 20px;
+	padding: 50px 20px 20px 20px;
 	width: 90%;
 	position: relative;
 	margin-left: auto;
