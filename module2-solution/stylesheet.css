@@ -3,14 +3,13 @@
 }
 
 body{
-	background-color: gray;
 	font-family: serif;
 	font-weight: bold;
 }
 
 h1{
 	text-align: center;
-	color: yellow;
+	text-transform: capitalize;
 }
 
 /*Styles for  sections*/
@@ -28,12 +27,11 @@ section{
 	margin-left: auto;
 	margin-right: auto;
 	overflow: auto;
-	font-size: 125%;
-	text-align: justify;
+	background-color: gray;
 
 }
 
-#div1{
+/*#div1{
 	background-color: green;
 }
 
@@ -43,7 +41,7 @@ section{
 
 #div3{
 	background-color: white;
-}
+}*/
 
 /*Styles for the paragraph elements*/
 p{
@@ -52,20 +50,20 @@ p{
 	right: 0px;
 	top: 0px;
 	margin: 0;
-	font-size: 175%;
+	font-size: 125%;
 	padding: 10px;
 }
 
 #section1 div p{
-	background-color: violet;
+	background-color: orange;
 }
 
 #section2 div p{
-	background-color: purple;
+	background-color: red;
 }
 
 #section3 div p{
-	background-color: orange;
+	background-color: pink;
 }
 
 
@@ -89,6 +87,7 @@ p{
 	#section3{
 		float: left;
 		width: 100%;
+		margin-top: 22.031px;
 	}
 
 	#div3{
