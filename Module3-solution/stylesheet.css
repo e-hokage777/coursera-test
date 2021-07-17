@@ -7,11 +7,8 @@ body{
 }
 
 #header-title{
-	font-size: 3vw;
+	font-size: 2.2em;
 	color: deepskyblue;
-	margin-top: 8px;
-	margin-bottom: 10px;
-
 }
 
 #first_Item{
@@ -36,6 +33,11 @@ li{
 	color: orangered;
 }
 
-#Anime-title{
+#Menu-title{
 	margin-bottom: 40px;
+}
+
+#containing-div{
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
