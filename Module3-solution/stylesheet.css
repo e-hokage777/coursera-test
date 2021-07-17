@@ -1,0 +1,41 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	background: deepskyblue;
+}
+
+#header-title{
+	font-size: 5vw;
+	color: deepskyblue;
+	margin-top: 8px;
+	margin-bottom: 8px;
+
+}
+
+#first_Item{
+	border: 2px black solid;
+	padding-left: 15px;
+	padding-right: 15px;
+	background: lightgreen;
+	font-weight: bold;
+	font-family: serif;
+	overflow: auto;
+}
+
+#nav-list{
+	background-color: greenyellow;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+li{
+	border-bottom: solid 1px black;
+	font-size: 1.5em;
+	color: orangered;
+}
+
+#Anime-title{
+	margin-bottom: 40px;
+}
